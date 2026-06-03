@@ -44,3 +44,6 @@ application-local.properties
 
 # Uploads folder
 uploads/
+
+
+*.sql
